@@ -2,7 +2,6 @@ package composants;
 
 public class Sumatra extends Boisson{
 
-    protected String description;
     public Sumatra(){
         description= "Sumatra";
     }
